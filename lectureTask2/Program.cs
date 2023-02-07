@@ -14,4 +14,4 @@ void Method21(string msg, int count)
     }
     
 }
-Method21("Текст", 4);
+Method21(msg:"Текст", count: 4);
