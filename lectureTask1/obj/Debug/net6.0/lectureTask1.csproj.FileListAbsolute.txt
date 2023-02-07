@@ -1,0 +1,15 @@
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\bin\Debug\net6.0\lectureTask1.exe
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\bin\Debug\net6.0\lectureTask1.deps.json
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\bin\Debug\net6.0\lectureTask1.runtimeconfig.json
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\bin\Debug\net6.0\lectureTask1.dll
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\bin\Debug\net6.0\lectureTask1.pdb
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.csproj.AssemblyReference.cache
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.AssemblyInfoInputs.cache
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.AssemblyInfo.cs
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.csproj.CoreCompileInputs.cache
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.dll
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\refint\lectureTask1.dll
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.pdb
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\lectureTask1.genruntimeconfig.cache
+C:\Users\Алмаз\Desktop\seminar_4\lectureTask1\obj\Debug\net6.0\ref\lectureTask1.dll
