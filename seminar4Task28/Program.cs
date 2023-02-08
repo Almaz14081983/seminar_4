@@ -18,3 +18,4 @@ int ProductOfNumbers(int number)
         }
     return prod;
 }
+// Console.Write(prod);
